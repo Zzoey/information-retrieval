@@ -24,6 +24,8 @@ The Boolean model would evaluate the documents as follows:
 
 The test collection of Cranfield includes 1400 abstracts of aeronautical journal articles, a set of 225 queries, and exhaustive relevance judgements of all (query, document) pairs. 
 
+---
+
 # Pre-Processing
 
 Initially, the Cranfield collection was stored in two files:
